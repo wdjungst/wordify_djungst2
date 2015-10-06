@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["djungst@gmail.com"]
   spec.summary       = %q{Practicing creating a gem}
   spec.description   = %q{Creating a gem to demo creating a gem}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/wdjungst/wordify_djungst2"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
