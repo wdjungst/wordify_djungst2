@@ -1,4 +1,5 @@
 require "wordify_djungst2/version"
+require "wordify_djungst2/greeting"
 
 module WordifyDjungst2
   def self.reversify(str)
